@@ -1,0 +1,1 @@
+rename batch-rename file-organizer rename navigatorslab-tools browser client-side offline-first privacy-tools no-upload mit-license javascript
